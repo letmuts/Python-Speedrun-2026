@@ -93,10 +93,10 @@ Debug 运行和直接 `python 1.py` 运行有什么区别？
 
 # 查询文档
 
-想知道 Python 官方是怎么解释 Python 的规则的？<https://docs.python.org/3/> 这里就是官方文档页面
+想知道 Python 官方是怎么解释 Python 的规则的？<https://docs.python.org/zh-cn/3/> 这里就是官方文档页面
 
 你可以查询所有 Python 内置的功能的解释，例如 `print`
 
 1. 把左上角的语言改为简体中文
-2. 右上角搜索栏搜索 `print`，点进搜索结果 <https://docs.python.org/zh-cn/3.14/library/functions.html#print>
+2. 右上角搜索栏搜索 `print`，点进搜索结果 <https://docs.python.org/zh-cn/3/library/functions.html#print>
 3. 可以看到 Python 官方对 `print` 的详细解释

@@ -1,4 +1,4 @@
-# [pathlib](https://docs.python.org/zh-cn/3.14/library/pathlib.html)
+# [pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
 
 在 Python 3.4 加入 `pathlib` 模块前，路径的解析、拼接等操作是基于字符串的，使用 `os` 模块中的路径操作函数完成
 
@@ -30,7 +30,7 @@ print(
 
 # 读写
 
-文件的读写需要使用内置函数 `open` 打开文件 <https://docs.python.org/zh-cn/3.14/library/functions.html#open>
+文件的读写需要使用内置函数 `open` 打开文件 <https://docs.python.org/zh-cn/3/library/functions.html#open>
 
 直接按二进制读写文件，或者按字符串读写，如果是字符串的话，需要指定编码
 

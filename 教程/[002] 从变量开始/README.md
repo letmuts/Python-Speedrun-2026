@@ -51,7 +51,7 @@ a = 456
 
 # 类型
 
-每个值都是有类型的，就如前篇文件说的，可以在官方文档中查看内置类型 <https://docs.python.org/zh-cn/3.14/library/stdtypes.html>
+每个值都是有类型的，就如前篇文件说的，可以在官方文档中查看内置类型 <https://docs.python.org/zh-cn/3/library/stdtypes.html>
 
 ```python
 var_1: int = 123  # 整数

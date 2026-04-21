@@ -1,6 +1,6 @@
 # re
 
-<https://docs.python.org/zh-cn/3.14/library/re.html#module-re>
+<https://docs.python.org/zh-cn/3/library/re.html#module-re>
 
 Python 内置模块 `re` 提供了完整的正则表达式功能，本文不介绍正则语法（自行查看官方文档），仅介绍 `re` 模块的重点用法
 

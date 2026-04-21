@@ -33,7 +33,7 @@ a: MyType = MyType()
 
 # 容器
 
-Python 内置了一些类型，用于存储数值，容器类型属于官方文档中序列类型: <https://docs.python.org/zh-cn/3.14/library/stdtypes.html#sequence-types-list-tuple-range>
+Python 内置了一些类型，用于存储数值，容器类型属于官方文档中序列类型: <https://docs.python.org/zh-cn/3/library/stdtypes.html#sequence-types-list-tuple-range>
 
 | 容器类 | 简述                                            |
 | :----- | :---------------------------------------------- |

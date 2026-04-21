@@ -1,4 +1,4 @@
-# [time](https://docs.python.org/zh-cn/3.14/library/time.html)
+# [time](https://docs.python.org/zh-cn/3/library/time.html)
 
 ```python
 import time
@@ -17,7 +17,7 @@ print(time.strptime("30 Nov 00", "%d %b %y"))  # 字符串解析为 time.struct_
 
 日期相关功能用更现代化的 `datetime` 模块平替
 
-# [datetime](https://docs.python.org/zh-cn/3.14/library/datetime.html)
+# [datetime](https://docs.python.org/zh-cn/3/library/datetime.html)
 
 ```python
 import datetime

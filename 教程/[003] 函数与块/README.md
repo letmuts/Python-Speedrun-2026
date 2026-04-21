@@ -18,13 +18,13 @@ print(d)  #  9
 print(求和函数(d, c))  #  13
 ```
 
-使用 `def` [**关键字**](https://docs.python.org/zh-cn/3.14/reference/lexical_analysis.html#keywords)创建函数，如示例中的语法，可以标注输入输出值的类型，使用 `return` 关键字返回类型
+使用 `def` [**关键字**](https://docs.python.org/zh-cn/3/reference/lexical_analysis.html#keywords)创建函数，如示例中的语法，可以标注输入输出值的类型，使用 `return` 关键字返回类型
 
 我们称输入为 `形式参数` ，简称**形参**；  
 称输出这个动作为 `返回`，return 的中文就是返回；  
 称返回的值为 `返回值`。
 
-所以 `print` 也是个函数，它是一个 Python [**内置函数**](https://docs.python.org/zh-cn/3.14/library/functions.html)
+所以 `print` 也是个函数，它是一个 Python [**内置函数**](https://docs.python.org/zh-cn/3/library/functions.html)
 
 # 用途
 

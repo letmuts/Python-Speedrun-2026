@@ -1,4 +1,4 @@
-# [enum](https://docs.python.org/zh-cn/3.14/library/enum.html)
+# [enum](https://docs.python.org/zh-cn/3/library/enum.html)
 
 在编程中，枚举类型用于无副作用地给常量起名字，并将同一个类型的常量打包到一个类中
 
@@ -89,7 +89,7 @@ print(type(Ani._member_map_), Ani._member_map_)  # <class 'dict'>
 print(type(Ani._value2member_map_), Ani._value2member_map_)  # <class 'dict'>
 ```
 
-# [dataclasses](https://docs.python.org/zh-cn/3.14/library/dataclasses.html)
+# [dataclasses](https://docs.python.org/zh-cn/3/library/dataclasses.html)
 
 上文示例代码中用到了 `dataclass`，它不需要 `__init__` 等一堆需要自己实现的繁琐的特殊方法，开关它的形参，就会自动实现对应的特殊方法
 

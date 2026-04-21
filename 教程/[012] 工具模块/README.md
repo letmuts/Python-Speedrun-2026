@@ -1,4 +1,4 @@
-# [math](https://docs.python.org/zh-cn/3.14/library/math.html)
+# [math](https://docs.python.org/zh-cn/3/library/math.html)
 
 ```python
 import math
@@ -14,9 +14,9 @@ print(math.pow(a, b) == a**b == pow(a, b))  # True
 
 `math` 内有大量数学函数和常量，需要时查文档，不过多赘述
 
-# [random](https://docs.python.org/zh-cn/3.14/library/random.html)
+# [random](https://docs.python.org/zh-cn/3/library/random.html)
 
-*若需安全随机数，使用 [secrets](https://docs.python.org/zh-cn/3.14/library/secrets.html) 模块*
+*若需安全随机数，使用 [secrets](https://docs.python.org/zh-cn/3/library/secrets.html) 模块*
 
 ```python
 import random
@@ -36,7 +36,7 @@ print(a)
 
 `random` 内有大量随机数生成方式，建议简单看一遍文档，有个大致印象
 
-# [itertools](https://docs.python.org/zh-cn/3.14/library/itertools.html)
+# [itertools](https://docs.python.org/zh-cn/3/library/itertools.html)
 
 ```python
 import itertools
@@ -71,7 +71,7 @@ print(list(itertools.zip_longest(a, b)))  # [(1, 7), (2, 8), (3, 9), (4, None)]
 
 迭代器拼接与切割、惰性求值、排列组合、累计计算，有这些需求时查询该模块文档
 
-# [collections](https://docs.python.org/zh-cn/3.14/library/collections.html)
+# [collections](https://docs.python.org/zh-cn/3/library/collections.html)
 
 Python 除了内置容器类型，还提供了这个容器模块
 
@@ -114,7 +114,7 @@ f3(c)
 
 前面文章中介绍可迭代对象时就用到过这个模块，最常用的部分也是基类
 
-# [functools](https://docs.python.org/zh-cn/3.14/library/functools.html)
+# [functools](https://docs.python.org/zh-cn/3/library/functools.html)
 
 偏函数、装饰器、缓存，有这些需求时查询该模块文档
 
