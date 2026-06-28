@@ -10,7 +10,7 @@
 ```bash
 # 安装rust环境
 
-cargo install mdbook # 安装构建依赖
+cargo install mdbook --version 0.5.2 # 安装构建依赖
 
 mdbook build # Builds a book from its markdown files
 
