@@ -5,3 +5,14 @@
 旨在新、快、简洁
 
 详见 [00] 篇教程介绍
+
+# 构建为html
+```bash
+# 安装rust环境
+
+cargo install mdbook # 安装构建依赖
+
+mdbook build # Builds a book from its markdown files
+
+mdbook serve # Serves a book at http://localhost:3000, and rebuilds it on changes
+```

@@ -1,0 +1,12 @@
+[book]
+title = "Python 速通教程"
+authors = ["op200"]
+language = "zh"
+description = "Python 零基础到进阶速通教程"
+
+[output.html]
+mathjax-support = true
+
+[output.html.fold]
+enable = true
+level = 1
